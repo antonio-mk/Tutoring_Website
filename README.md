@@ -23,7 +23,7 @@ This is a **fully responsive tutoring service website** designed to help student
 
 ## 📸 Screenshots
 
-![Homepage Preview](link-to-image.png)  
+![Homepage Preview](https://imgur.com/a/PsqFeYe)  
 
 ## 📌 Author
 
